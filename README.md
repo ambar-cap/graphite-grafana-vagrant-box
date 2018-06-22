@@ -18,7 +18,7 @@ Provision a virtual machine with vagrant and puppet with
 
 ```
 sudo pip install ansible
-git clone https://github.com/pellepelster/graphite-grafana-vagrant-box.git
+git clone https://github.com/ambar-cap/graphite-grafana-vagrant-box.git
 cd graphite-grafana-vagrant-box
 vagrant up
 vagrant provision
